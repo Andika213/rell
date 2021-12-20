@@ -25,7 +25,7 @@ pip install futures
 
 RUN SCRIPT ><
 
-git clone https://github.com/crackige/Elite
+git clon https://github.com/Andika213
 
 cd Elite
 
